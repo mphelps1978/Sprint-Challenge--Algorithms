@@ -10,7 +10,7 @@ What are base cases?
     word can't contain 'th' (less than 2 characters)
 
     Both of those can be combined into a less than 2 character case
-    
+
 We can traverse the string by character, looking for `th` - and if we find it, add to a result,
 then move 2 characters to the right, and check again
 
